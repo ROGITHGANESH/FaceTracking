@@ -107,6 +107,9 @@ anchor.group.add(glasses.scene);
 
 ```
 ## OUTPUT:
+![WhatsApp Image 2025-11-18 at 13 35 58](https://github.com/user-attachments/assets/b5c14b23-3e09-426a-b5df-d545148bc412)
+
+<img width="1280" height="610" alt="image" src="https://github.com/user-attachments/assets/56f1291e-00d3-4a93-92cc-9b6bb4e64764" />
 
 
 
